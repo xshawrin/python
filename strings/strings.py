@@ -4,7 +4,7 @@ life is Fun. I am'''
 print(a)
 
 print(len(a))
-print(a[22:35]) # comments
+print(a[22:32]) # comments
 print('----------')
 def country():
  for a in 'Sweden':
