@@ -1,6 +1,6 @@
 #A for loop is used for iterating over a sequence
 
-car = ["Audi", "BMW", "Kia", "Toyota", "Honda", "Kia"]
+car = ["Audi", "BMW", "Kia", "Toyota", "Honda", "Kia" 'Nissan']
 for x in car:
     if x == 'Toyota':
         print('found')

@@ -104,4 +104,6 @@ print(cars)
 for x, obj in car.items():
   print(x)
   for y in obj:
-    print(y, ':', obj[y])# need to understand logic
+    print(y, '=', obj[y])# need to understand logic
+
+print('--------Practice---------')
